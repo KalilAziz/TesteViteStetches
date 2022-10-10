@@ -15,7 +15,7 @@ export const App = () => {
         as="h3"
         variant="purple"
         fontSize="5"
-        sizeSpacing="10"
+        sizeSpacing="8"
         outlined
         dark={dark}
       >
